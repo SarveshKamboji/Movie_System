@@ -116,7 +116,7 @@ Search
 # MovieCenter MERN App - Setup Instructions
 
 ## Clone the repository
-git clone https://github.com/kambojipranav/React_Movie_System.git
+git clone https://github.com/SarveshKamboji/React_Movie_System.git
 cd moviecenter
 
 ## Backend Setup
